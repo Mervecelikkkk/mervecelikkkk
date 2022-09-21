@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Merve</h1>
 <h3 align="center">A passionate full-stack web developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mervecelikkkk&label=Profile%20views&color=0e75b6&style=flat" alt="mervecelikkkk" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mervecelikkkk&label=Profile%20views&color=0e75b6&style=flat" alt="mervecelikkkk" /> </p>
 
 - 🌱 I’m currently learning **React.js**
 
