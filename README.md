@@ -3,13 +3,13 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mervecelikkkk&label=Profile%20views&color=0e75b6&style=flat" alt="mervecelikkkk" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+ 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **ASP.NET, AngularJS, JavaScript, Html/Css**
+ 💬 Ask me about **ASP.NET, AngularJS, JavaScript, Html/Css**
 
-- 📫 How to reach me **merve.celik56@outlook.com**
+ 📫 How to reach me **merve.celik56@outlook.com**
 
-- ⚡ Fun fact **I love what I do - code and learn, learn and code**
+ ⚡ Fun fact **I love what I do - code and learn, learn and code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
