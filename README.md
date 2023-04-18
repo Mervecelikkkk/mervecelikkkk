@@ -16,8 +16,7 @@
 <a href="https://linkedin.com/in/mervecelikkkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mervecelikkkk" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/16037737/merve-celik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/16037737/merve-celik" height="30" width="40" /></a>
 <a href="https://instagram.com/merve.celikkkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="merve.celikkkk" height="30" width="40" /></a>
-<a href="https://medium.com/@mervecelik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mervecelikkkk" height="30" width="40" /></a> <a href="https://leetcode.com/Mervecix/" target="blank"><img align="center" src="![LeetCode_Logo_1](https://user-images.githubusercontent.com/51165242/232745994-58f4e06f-207c-42d4-8a53-61f7860e5373.png)
-" /></a>
+<a href="https://medium.com/@mervecelik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mervecelikkkk" height="30" width="40" /></a> <a href="https://leetcode.com/Mervecix/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
