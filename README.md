@@ -7,7 +7,7 @@
 
 - 👾 My Portfolio [https://mervecelikkkk.github.io/](https://mervecelikkkk.github.io/)
 
-- 💬 Ask me about **ASP.NET, AngularJS, JavaScript, Html/Css**
+- 💬 Ask me about **ASP.NET, JavaScript, AngularJS, Html/Css**
 
 - 📫 How to reach me **merve.celik56@outlook.com**
 
