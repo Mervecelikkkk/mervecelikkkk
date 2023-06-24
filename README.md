@@ -15,7 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
- İleri Seviye Git Komutları 👾 [https://medium.com/@mervecelik/i%CC%87leri-seviye-git-komutlar%C4%B1-2d9e7360732b])
+ İleri Seviye Git Komutları 👾 [https://medium.com/@mervecelik/i%CC%87leri-seviye-git-komutlar%C4%B1-2d9e7360732b]
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
