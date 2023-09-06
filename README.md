@@ -16,6 +16,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - <a href="https://medium.com/@mervecelik/i%CC%87leri-seviye-git-komutlar%C4%B1-2d9e7360732b">İleri Seviye Git Komutları 👾<a>
+- <a href="https://medium.com/@mervecelik/veritaban%C4%B1-y%C3%B6netimi-i%C3%A7in-modern-yakla%C5%9F%C4%B1m-nodejs-orm-fb8102025c8f"> Veritabanı Yönetimi için Modern Yaklaşım: NodeJS ORM 👾<a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
